@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 cd fortress/ || exit
-zip -r ../pak0.pk3 ./*
+qpakman * -o ../pak0.pak
