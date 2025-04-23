@@ -23,3 +23,7 @@ Free assets used from the following sources:
 - [RPG Sound Pack | OpenGameArt.org](https://opengameart.org/content/rpg-sound-pack) (CC0)
 
 - [USC Optical Sound Effects Library](https://archive.org/details/usc-sound-effect-archive?tab=collection) (CC0)
+
+- [Steam release sounds | OpenGameArt.org](https://opengameart.org/content/steam-release-sounds) (CC0)
+
+- [40 CC0 water / splash / slime SFX | OpenGameArt.org](https://opengameart.org/content/40-cc0-water-splash-slime-sfx) (CC0)
