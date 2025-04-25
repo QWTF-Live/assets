@@ -18,8 +18,6 @@
 
 - reload_super_shotgun.wav
 
-- sniper.wav
-
 - tink1.wav
 
 - turridle.wav
