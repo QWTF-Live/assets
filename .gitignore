@@ -3,3 +3,8 @@ pak0.pak
 fo_hud.pk3
 hud.pk3
 *~
+assetsrc/maps/*.bsp
+assetsrc/maps/*.log
+assetsrc/maps/*.prt
+assetsrc/maps/mapping/*.wad
+texture-wads/*.wad
